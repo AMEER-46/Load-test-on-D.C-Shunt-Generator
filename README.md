@@ -1,6 +1,6 @@
 # Load-test-on-D.C-Shunt-Generator
 ### Name:SHEIK AMEERULLAH A
-### Reg no:212223210025
+### Reg no:212223210025 
 Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 Apparatus Required:
